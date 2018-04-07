@@ -41,7 +41,13 @@ h1 {
 
 }
 
-
+.copy {
+    background: none repeat scroll 0 0 transparent;
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+}
 
 .welcome {
   margin-left: auto;
