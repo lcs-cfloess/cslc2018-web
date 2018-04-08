@@ -33,7 +33,7 @@ h1 {
 }
 
   p {
-    font-family: "Courier New", Times, serif;
+    font-family: "Georgia", Times, serif;
 }
 
 h1 {
@@ -131,4 +131,17 @@ h1 {
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
   display: block;
+}
+
+.Intro {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+
+}
+.bio {
+
+  margin-right: auto;
+    width: 1000px;
 }
