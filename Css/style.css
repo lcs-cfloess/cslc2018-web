@@ -154,3 +154,18 @@ h1 {
     top: 140px;
 
 }
+
+.logo1 {
+
+  position: absolute;
+  left: 95%;
+  top: 0;
+
+}
+.logo2 {
+
+  position: absolute;
+  left: 90%;
+  top: 0;
+
+}
