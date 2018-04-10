@@ -47,7 +47,7 @@ h1 {
     position: fixed;
     text-align: center;
     width: 100%;
-  
+
 }
 
 .welcome {
@@ -145,4 +145,12 @@ h1 {
 
   margin-right: auto;
     width: 1000px;
+}
+
+.guestSpeaker {
+
+    position: absolute;
+    left: 400px;
+    top: 140px;
+
 }
