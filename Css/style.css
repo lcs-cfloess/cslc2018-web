@@ -169,3 +169,18 @@ h1 {
   top: 0;
 
 }
+.pack {
+
+  margin-right: auto;
+    width: 900px;
+}
+
+.indent {
+
+ margin-left: 40px;
+}
+
+.pack {
+
+  font-family: "Georgia", Times, serif;
+}
