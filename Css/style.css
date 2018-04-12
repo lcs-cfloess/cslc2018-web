@@ -184,3 +184,11 @@ h1 {
 
   font-family: "Georgia", Times, serif;
 }
+
+.group {
+
+  display: block;
+margin-left: auto;
+margin-right: auto;
+width: 80%;
+}
