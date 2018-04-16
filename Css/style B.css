@@ -303,7 +303,7 @@ Main Components
 }
 
 .cd-schedule .single-event[data-event="event-1"]:hover {
-  background:#FFA500;
+  background:#FF69B4;
 }
 
 .cd-schedule .single-event[data-event="event-2"],
@@ -312,7 +312,7 @@ Main Components
 }
 
 .cd-schedule .single-event[data-event="event-2"]:hover {
-  background: #008000;
+  background: #FF69B4;
 }
 
 .cd-schedule .single-event[data-event="event-3"],
@@ -321,7 +321,7 @@ Main Components
 }
 
 .cd-schedule .single-event[data-event="event-3"]:hover {
-  background: #b1c4be;
+  background: #FF69B4;
 }
 
 .cd-schedule .single-event[data-event="event-4"],
@@ -330,7 +330,7 @@ Main Components
 }
 
 .cd-schedule .single-event[data-event="event-4"]:hover {
-  background: #f7bd7f;
+  background: #FF69B4;
 }
 
 .cd-schedule .single-event[data-event="event-5"],
@@ -339,7 +339,7 @@ Main Components
 }
 
 .cd-schedule .single-event[data-event="event-5"]:hover {
-  background: #f7bd7f;
+  background: #FF69B4;
 }
 
 .cd-schedule .single-event[data-event="event-6"],
@@ -348,7 +348,7 @@ Main Components
 }
 
 .cd-schedule .single-event[data-event="event-6"]:hover {
-  background: #f7bd7f;
+  background: #FF69B4;
 }
 
 .cd-schedule .single-event[data-event="event-7"],
@@ -357,7 +357,7 @@ Main Components
 }
 
 .cd-schedule .single-event[data-event="event-7"]:hover {
-  background: #f7bd7f;
+  background: #FF69B4;
 }
 
 .cd-schedule .single-event[data-event="event-8"],
@@ -365,8 +365,8 @@ Main Components
   background: #EE82EE;
 }
 
-.cd-schedule .single-event[data-event="event8"]:hover {
-  background: #f7bd7f;
+.cd-schedule .single-event[data-event="event-8"]:hover {
+  background: #FF69B4;
 }
 
 .cd-schedule .single-event[data-event="event-9"],
@@ -375,7 +375,7 @@ Main Components
 }
 
 .cd-schedule .single-event[data-event="event-9"]:hover {
-  background: #f7bd7f;
+  background: #FF69B4;
 }
 
 .cd-schedule .single-event[data-event="event-10"],
@@ -384,7 +384,7 @@ Main Components
 }
 
 .cd-schedule .single-event[data-event="event-10"]:hover {
-  background: #f7bd7f;
+  background: #FF69B4;
 }
 
 .cd-schedule .single-event[data-event="event-11"],
@@ -393,7 +393,7 @@ Main Components
 }
 
 .cd-schedule .single-event[data-event="event-11"]:hover {
-  background: #f7bd7f;
+  background: #FF69B4;
 }
 
 .cd-schedule .event-modal {
