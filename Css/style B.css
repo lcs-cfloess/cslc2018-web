@@ -243,7 +243,7 @@ Main Components
     margin-right: 0;
   }
   .cd-schedule .events .single-event a {
-    padding: 0.5em;
+    padding: 0.1em;
   }
   .cd-schedule .events .single-event:last-of-type {
     /* reset style */
@@ -353,7 +353,7 @@ Main Components
 
 .cd-schedule .single-event[data-event="event-7"],
 .cd-schedule [data-event="event-7"] .header-bg {
-  background: #800080;
+  background: #6600CC;
 }
 
 .cd-schedule .single-event[data-event="event-7"]:hover {
